@@ -1,6 +1,9 @@
 # Hangman-Game-in-C
 Hangman game is a popular and simple game in which the player has to guess the word based on the given hint. In this article, we will write a program for the hangman game using C programming language.
 
+
+![image](https://github.com/user-attachments/assets/04e1aa00-65d5-4875-bc38-4cfab93d9b6e)
+
 # What is the Hangman Game?
 Hangman is a word puzzle game that involves:
 
